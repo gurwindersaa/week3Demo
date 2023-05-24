@@ -13,5 +13,9 @@
     </head>
     <body>
         <h1>Hello World Form</h1>
+        <form> 
+            <input type="text"  placeholder="First Name" id="firstName">
+       <input type="text"  placeholder="Last Name" id="lastName">
+       <input type="submit" id="submit">
     </body>
 </html>
